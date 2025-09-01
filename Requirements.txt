@@ -1,0 +1,16 @@
+langchain-google-genai
+langgraph
+langchain-core
+pydantic
+python-dotenv
+openai-whisper
+SpeechRecognition
+pydub
+simpleaudio
+gTTS
+pyobjc
+langchain-community
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+PyMuPDF
